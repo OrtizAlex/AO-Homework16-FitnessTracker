@@ -23,6 +23,7 @@ The user should be able to:
   * View the total duration of each workout from the past seven workouts on the `stats` page.
 
 ## Live App
+![PortfolioV2 Screenshot](./Screenshot.jpeg)
 [Direct Link](https://afternoon-spire-99197.herokuapp.com/)
 
 
